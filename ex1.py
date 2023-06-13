@@ -9,4 +9,5 @@ else:
     print("sao iguais")
 print("Bom trabalho")
 print("ok you did a goog job")
+print("ok you did a goog job")
 
