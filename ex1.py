@@ -8,5 +8,5 @@ elif n1<n2:
 else:
     print("sao iguais")
 print("Bom trabalho")
-print("ok")
+print("ok you did a goog job")
 
