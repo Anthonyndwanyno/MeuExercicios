@@ -7,3 +7,4 @@ elif n1<n2:
     print("N2 eh maior")
 else:
     print("sao iguais")
+print("Bom trabalho")
